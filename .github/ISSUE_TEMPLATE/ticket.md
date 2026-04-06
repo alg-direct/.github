@@ -1,10 +1,9 @@
 ---
 name: Ticket
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
-
+about: Create a standard engineering ticket
+title: ""
+labels: []
+assignees: []
 ---
 
 # Problem
